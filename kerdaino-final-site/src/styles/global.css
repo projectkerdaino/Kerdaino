@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-gold-500 {
+  color: #FFD700;
+}
+.bg-gold-500 {
+  background-color: #FFD700;
+}
+.border-gold-500 {
+  border-color: #FFD700;
+}
